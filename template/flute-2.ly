@@ -1,4 +1,4 @@
-lowercaseName = "flute-1"
+lowercaseName = "flute-2"
 titleName = "Flute 2"
 voice = \secondFluteMusic
 
